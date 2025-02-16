@@ -9,11 +9,16 @@ The goal of this project is to detect and track players, referees, and footballs
 
 ## Modules Used
 
-> **YOLO**: AI Object Detection
-> **K-means**: Pixel segmentation and clustering to detect t-shirt color
-> **Optical Flow**: Measure camera movement
-> **Speed and Distance Calculation**
+- **YOLO**: AI Object Detection
+  
+- **K-means**: Pixel segmentation and clustering to detect t-shirt color
+  
+- **Optical Flow**: Measure camera movement
+  
+- **Speed and Distance Calculation**
+  
 
 ## Trained Model and Data
-> YOLO v5
-> We use this [dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1) on Roboflow to Fine-tuning YOLO model.
+- YOLO v5
+  
+- We use this [dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1) on Roboflow to Fine-tuning YOLO model.
