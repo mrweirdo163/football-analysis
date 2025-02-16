@@ -21,3 +21,18 @@ The goal of this project is to detect and track players, referees, and footballs
 - YOLO v5
   
 - We use this [dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1) on Roboflow to Fine-tuning YOLO model.
+
+## Libraries
+- ultralytics
+  
+- supervision
+  
+- OpenCV
+  
+- NumPy
+  
+- Pandas
+  
+- Matplotlib
+  
+- Scikit-learn
